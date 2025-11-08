@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: Lenguaje m
+type: software
+authors:
+  - given-names: Luis Fabian
+    family-names: Garcia Sanchez
+    email: L22212254@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/LuisFabianGarciaSanchez/Practica10MSF'
+keywords:
+  - Modelo matematico
+  - EPO
+  - Eritropocitos
+  - Ecuaciones EDO
+  - Regeneracion de globulos rojos
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-07'
