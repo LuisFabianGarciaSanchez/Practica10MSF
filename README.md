@@ -1,6 +1,6 @@
 [![Open in MATLAB Online]
 
-# Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
+# Práctica 10: Regeneración de glóbulos rojos [Sistema de EDOs]
 
 ## Información del estudiante
 
